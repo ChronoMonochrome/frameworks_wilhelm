@@ -17,9 +17,11 @@
 #ifndef __ANDROID_GENERICPLAYER_H__
 #define __ANDROID_GENERICPLAYER_H__
 
-#include <media/stagefright/foundation/AHandler.h>
-#include <media/stagefright/foundation/ALooper.h>
-#include <media/stagefright/foundation/AMessage.h>
+#include <media_legacy/stagefright/foundation/AHandler.h>
+#include <media_legacy/stagefright/foundation/ALooper.h>
+#include <media_legacy/stagefright/foundation/AMessage.h>
+#include <gui_legacy/IGraphicBufferProducer.h>
+
 
 //--------------------------------------------------------------------------------------------------
 /**

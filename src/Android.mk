@@ -182,7 +182,7 @@ LOCAL_SHARED_LIBRARIES :=         \
         libstagefright            \
         libstagefright_foundation \
         libcutils                 \
-        libgui                    \
+        libgui_legacy                    \
         libdl
 
 

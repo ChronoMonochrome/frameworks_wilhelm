@@ -19,9 +19,9 @@
 #include "sles_allinclusive.h"
 #include "android_StreamPlayer.h"
 
-#include <media/IStreamSource.h>
-#include <media/IMediaPlayerService.h>
-#include <media/stagefright/foundation/ADebug.h>
+#include <media_legacy/IStreamSource.h>
+#include <media_legacy/IMediaPlayerService.h>
+#include <media_legacy/stagefright/foundation/ADebug.h>
 #include <binder/IPCThreadState.h>
 
 #include "mpeg2ts/ATSParser.h"

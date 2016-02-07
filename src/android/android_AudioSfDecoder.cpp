@@ -20,7 +20,7 @@
 #include "android/android_AudioSfDecoder.h"
 
 #include <binder/IServiceManager.h>
-#include <media/stagefright/foundation/ADebug.h>
+#include <media_legacy/stagefright/foundation/ADebug.h>
 
 
 #define SIZE_CACHED_HIGH_BYTES 1000000

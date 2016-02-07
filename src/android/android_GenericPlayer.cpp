@@ -18,7 +18,7 @@
 
 #include "sles_allinclusive.h"
 
-#include <media/stagefright/foundation/ADebug.h>
+#include <media_legacy/stagefright/foundation/ADebug.h>
 #include <sys/stat.h>
 
 namespace android {

@@ -17,7 +17,7 @@
 //#define USE_LOG SLAndroidLogLevel_Verbose
 
 #include "sles_allinclusive.h"
-#include <media/IMediaPlayerService.h>
+#include <media_legacy/IMediaPlayerService.h>
 #include "android_LocAVPlayer.h"
 
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include <media/IStreamSource.h>
+#include <media_legacy/IStreamSource.h>
 #include <binder/IServiceManager.h>
 #include "android/android_GenericMediaPlayer.h"
 

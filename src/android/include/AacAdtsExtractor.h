@@ -19,15 +19,15 @@
 
 #include <utils/Vector.h>
 
-#include <media/stagefright/foundation/ABuffer.h>
-#include <media/stagefright/foundation/ADebug.h>
-#include <media/stagefright/DataSource.h>
-#include <media/stagefright/MediaBufferGroup.h>
-#include <media/stagefright/MediaDefs.h>
-#include <media/stagefright/MediaErrors.h>
-#include <media/stagefright/MediaExtractor.h>
-#include <media/stagefright/MediaSource.h>
-#include <media/stagefright/MetaData.h>
+#include <media_legacy/stagefright/foundation/ABuffer.h>
+#include <media_legacy/stagefright/foundation/ADebug.h>
+#include <media_legacy/stagefright/DataSource.h>
+#include <media_legacy/stagefright/MediaBufferGroup.h>
+#include <media_legacy/stagefright/MediaDefs.h>
+#include <media_legacy/stagefright/MediaErrors.h>
+#include <media_legacy/stagefright/MediaExtractor.h>
+#include <media_legacy/stagefright/MediaSource.h>
+#include <media_legacy/stagefright/MetaData.h>
 #include <utils/String8.h>
 
 namespace android {

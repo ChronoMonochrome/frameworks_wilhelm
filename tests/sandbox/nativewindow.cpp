@@ -31,7 +31,7 @@
 #define CHECK assert
 #define CHECK_EQ(a,b) CHECK((a)==(b))
 #else
-#include <media/stagefright/foundation/ADebug.h>
+#include <media_legacy/stagefright/foundation/ADebug.h>
 #endif
 
 namespace android {

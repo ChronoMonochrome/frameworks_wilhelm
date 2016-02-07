@@ -20,7 +20,7 @@
 #include "android_GenericPlayer.h"
 
 #include <binder/IServiceManager.h>
-#include <gui/IGraphicBufferProducer.h>
+#include <gui_legacy/IGraphicBufferProducer.h>
 
 
 //--------------------------------------------------------------------------------------------------

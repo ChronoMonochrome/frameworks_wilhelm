@@ -16,7 +16,7 @@
 
 #include <system/window.h>
 #include <utils/StrongPointer.h>
-#include <gui/Surface.h>
+#include <gui_legacy/Surface.h>
 
 #include "sles_allinclusive.h"
 #include "android_prompts.h"

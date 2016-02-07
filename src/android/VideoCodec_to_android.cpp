@@ -16,11 +16,11 @@
 
 #include "sles_allinclusive.h"
 
-#include <media/IMediaPlayerService.h>
-#include <media/stagefright/OMXClient.h>
-#include <media/stagefright/OMXCodec.h>
-#include <media/IOMX.h>
-#include <media/stagefright/MediaDefs.h>
+#include <media_legacy/IMediaPlayerService.h>
+#include <media_legacy/stagefright/OMXClient.h>
+#include <media_legacy/stagefright/OMXCodec.h>
+#include <media_legacy/IOMX.h>
+#include <media_legacy/stagefright/MediaDefs.h>
 
 
 namespace android {

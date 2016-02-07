@@ -17,14 +17,14 @@
 #ifndef AUDIO_SF_DECODER_H_
 #define AUDIO_SF_DECODER_H_
 
-#include <media/stagefright/DataSource.h>
-#include <media/stagefright/MediaSource.h>
-#include <media/stagefright/FileSource.h>
-#include <media/stagefright/MediaDefs.h>
-#include <media/stagefright/MediaExtractor.h>
-#include <media/stagefright/MetaData.h>
-#include <media/stagefright/OMXClient.h>
-#include <media/stagefright/OMXCodec.h>
+#include <media_legacy/stagefright/DataSource.h>
+#include <media_legacy/stagefright/MediaSource.h>
+#include <media_legacy/stagefright/FileSource.h>
+#include <media_legacy/stagefright/MediaDefs.h>
+#include <media_legacy/stagefright/MediaExtractor.h>
+#include <media_legacy/stagefright/MetaData.h>
+#include <media_legacy/stagefright/OMXClient.h>
+#include <media_legacy/stagefright/OMXCodec.h>
 #include "NuCachedSource2.h"
 #include "ThrottledSource.h"
 

@@ -21,9 +21,9 @@
 
 #include <system/window.h>
 
-#include <media/IMediaPlayerService.h>
-#include <media/stagefright/foundation/ADebug.h>
-#include <media/mediaplayer.h>  // media_event_type media_error_type media_info_type
+#include <media_legacy/IMediaPlayerService.h>
+#include <media_legacy/stagefright/foundation/ADebug.h>
+#include <media_legacy/mediaplayer.h>  // media_event_type media_error_type media_info_type
 
 // default delay in Us used when reposting an event when the player is not ready to accept
 // the command yet. This is for instance used when seeking on a MediaPlayer that's still preparing
